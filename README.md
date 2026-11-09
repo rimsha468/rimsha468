@@ -47,16 +47,6 @@
 <tr>
 <td width="50%">
 
-### 🤖 LeadAtlas AI
-
-AI-powered lead intelligence platform for discovering, scoring, and managing business leads using OpenStreetMap data.
-
-**Tech:** Python, Streamlit, Data Processing
-
-[View Repository →](https://github.com/rimsha468/leadatlas-ai)
-
-</td>
-<td width="50%">
 
 ### 👁️ Be My Sight
 
@@ -81,20 +71,6 @@ Multi-modal phishing detection system analyzing URLs and emails using machine le
 [View Repository →](https://github.com/rimsha468/ThreatLens-multi-modal-phishing-detection)
 
 </td>
-<td width="50%">
-
-### 📄 Real-World OCR
-
-An OCR pipeline comparing image preprocessing techniques to improve text extraction from real-world images.
-
-**Tech:** Python, OpenCV, Tesseract
-
-[View Repository →](https://github.com/rimsha468/real-world-ocr)
-
-</td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 🔐 SentinelFlow
