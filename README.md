@@ -6,8 +6,10 @@
   <i>Computer Science Graduate | Aspiring Software Engineer</i>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/01%20%E2%80%94%20CURRENT%20MODE-BUILDING%20%26%20EXPLORING-241B35?style=for-the-badge&labelColor=171326&color=8D5A91" />
-  <img src="https://img.shields.io/badge/02%20%E2%80%94%20BRAIN%20STATUS-CURIOUS%20ALWAYS-241B35?style=for-the-badge&labelColor=171326&color=C879A9" />
+  <img src="https://img.shields.io/badge/☕-COFFEE%20POWERED-241B35?style=for-the-badge&labelColor=171326&color=8D5A91" />
+  <img src="https://img.shields.io/badge/💻-CODE%20%26%20CREATE-241B35?style=for-the-badge&labelColor=171326&color=C879A9" />
+  <img src="https://img.shields.io/badge/🧠-ALWAYS%20LEARNING-241B35?style=for-the-badge&labelColor=171326&color=8D5A91" />
+  <img src="https://img.shields.io/badge/✨-DREAM%20BIG-241B35?style=for-the-badge&labelColor=171326&color=C879A9" />
 </p>
 ## ୨୧ A little about me
 
