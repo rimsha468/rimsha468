@@ -18,16 +18,13 @@
 
 ---
 
-## 🌸 About Me
-
-
 <h2 align="center">🌷 A Little About Me</h2>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Hello,%20World!-FFCBE2?style=for-the-badge&labelColor=FCEAF2&color=E8B4D0" />
 
-<br/><br/>
+<br/>
 
 💗 **Computer Science Graduate** with a curious mind and a love for building things.
 
