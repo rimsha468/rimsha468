@@ -1,28 +1,185 @@
-<h1 align="center">Hi 👋, I'm Rimsha Arif</h1>
-<h3 align="center">Tech Enthusiast & Problem Solver | Lifelong Learner</h3>
+<!-- 🌷 PROFILE HEADER -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rimsha468&label=Profile%20views&color=0e75b6&style=flat" alt="rimsha468" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rimsha468" alt="rimsha468" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,50:EADCF8,100:DCEBFA&height=200&section=header&text=Rimsha%20Arif&fontSize=48&fontColor=795C75&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%7C%20Building%20and%20Learning&descAlignY=58&descSize=15" width="100%" />
 
-- 🌱 I’m currently learning **AI/ML, Cybersecurity, and Computer Vision**
+<h2>Hi there! 👋 I'm Rimsha</h2>
 
-- 💬 Ask me about **Python, ML, Computer Vision, and Cybersecurity**
-
-- 📫 How to reach me **rimshaarif46821@gmail.com**
-
-- ⚡ Fun fact **99% curiosity, 1% knowing what I'm doing.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rimsha-arif-514091365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rimsha-arif-514091365" height="30" width="40" /></a>
+<p>
+  <b>Computer Science Graduate | Aspiring Software Engineer</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p>
+  <i>Curious mind, creative problem solver, and a developer who loves turning ideas into reality.</i>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rimsha468&show_icons=true&locale=en&layout=compact" alt="rimsha468" /></p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rimsha468&label=Profile%20Views&color=E8A8C8&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/rimsha468?label=Followers&style=flat-square&color=DCC6F2" />
+  <img src="https://img.shields.io/github/repo-count/rimsha468?label=Public%20Repos&style=flat-square&color=F2B8D0" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rimsha468&show_icons=true&locale=en" alt="rimsha468" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rimsha468&" alt="rimsha468" /></p>
+---
+
+## 🌸 About Me
+
+- 🎓 Computer Science graduate with a passion for technology and innovation.
+- 🌱 Currently learning **AI/ML, Cybersecurity, and Computer Vision**.
+- 💬 Ask me about **Python, Machine Learning, Computer Vision, and Cybersecurity**.
+- 🔭 Interested in building intelligent systems and solving real-world problems.
+- 📫 Reach me at: **rimshaarif46821@gmail.com**
+- ⚡ Fun fact: 99% curiosity, 1% knowing what I'm doing. 😂
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch,sklearn,pandas,numpy,fastapi,streamlit,git,github,linux,mysql,mongodb&perline=7" />
+</p>
+
+---
+
+## 💻 Featured Projects
+
+<p align="center">
+  <i>A collection of things I've built, experimented with, and learned along the way.</i>
+</p>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 LeadAtlas AI
+
+AI-powered lead intelligence platform for discovering, scoring, and managing business leads using OpenStreetMap data.
+
+**Tech:** Python, Streamlit, Data Processing
+
+[View Repository →](https://github.com/rimsha468/leadatlas-ai)
+
+</td>
+<td width="50%">
+
+### 👁️ Be My Sight
+
+Real-time object detection Android application with voice feedback to assist visually impaired users.
+
+**Tech:** Computer Vision, TensorFlow Lite, Android
+
+[View Repository →](https://github.com/rimsha468/Be-My-Sight-Real-Time-Object-Detection-Assistant)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛡️ ThreatLens
+
+Multi-modal phishing detection system analyzing URLs and emails using machine learning.
+
+**Tech:** Python, Machine Learning, FastAPI
+
+[View Repository →](https://github.com/rimsha468/ThreatLens-multi-modal-phishing-detection)
+
+</td>
+<td width="50%">
+
+### 📄 Real-World OCR
+
+An OCR pipeline comparing image preprocessing techniques to improve text extraction from real-world images.
+
+**Tech:** Python, OpenCV, Tesseract
+
+[View Repository →](https://github.com/rimsha468/real-world-ocr)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔐 SentinelFlow
+
+Network threat detection using behavioural rules, unsupervised machine learning, and MITRE ATT&CK mapping.
+
+**Tech:** Python, Cybersecurity, Machine Learning
+
+[View Repository →](https://github.com/rimsha468/sentinelflow-network-threat-detection)
+
+</td>
+<td width="50%">
+
+### 📸 DocScan
+
+A computer vision tool that detects documents, corrects perspective, and removes shadows to create clean scans.
+
+**Tech:** Python, OpenCV, Computer Vision
+
+[View Repository →](https://github.com/rimsha468/docscan)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rimsha468&show_icons=true&include_all_commits=true&hide_border=true&bg_color=FFF7FB&title_color=C27BA0&text_color=806B80&icon_color=D98BB5&border_radius=15" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimsha468&layout=compact&langs_count=8&hide_border=true&bg_color=FFF7FB&title_color=C27BA0&text_color=806B80&border_radius=15" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rimsha468&theme=default&hide_border=true&background=FFF7FB&ring=D98BB5&fire=E8A8C8&currStreakLabel=C27BA0&sideLabels=9B7A98&currStreakNum=806B80&sideNums=806B80&dates=B49BB2" width="75%" />
+
+</div>
+
+---
+
+## 🌷 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rimsha468&bg_color=fff7fb&color=806b80&line=d98bb5&point=b78bd2&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%" />
+
+</div>
+
+---
+
+## 💗 Let's Connect!
+
+<div align="center">
+
+<a href="https://linkedin.com/in/rimsha-arif-514091365">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-E8A8C8?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:rimshaarif46821@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-DCC6F2?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/rimsha468">
+  <img src="https://img.shields.io/badge/GitHub-Follow-F2B8D0?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<i>✨ Keep learning, keep building, and never stop being curious. ✨</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,50:EADCF8,100:DCEBFA&height=100&section=footer" width="100%" />
+
+</div>
