@@ -8,15 +8,48 @@
 
 ## ୨୧ A little about me
 
-<img align="right" width="145" src="https://github.com/rimsha468.png" />
+<p align="center">
+  <img src="https://img.shields.io/badge/♡%20RIMSHA%20ARIF-Computer%20Science%20Graduate-E879B5?style=for-the-badge&labelColor=241B35" />
+</p>
 
-name: Rimsha Arif<br/>
-background: Computer Science<br/>
-personality: Curious + creative<br/>
-currently_exploring:
-  - Artificial Intelligence | Machine Learning | Cybersecurity | Computer Vision
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-motto: "If it works, don't touch it!!!"
+🌸 **THE PERSONALITY**
+
+Curious by nature  
+Creative by choice
+
+</td>
+<td align="center" width="50%">
+
+💻 **THE BACKGROUND**
+
+Computer Science  
+Aspiring Software Engineer
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+✨ **CURRENTLY EXPLORING**
+
+`AI & ML`　 `Cybersecurity`　 `Computer Vision`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+💗 **MY DEVELOPER MOTTO**
+
+### "If it works, don't touch it!!!"
+
+</td>
+</tr>
+</table>
 
 ## ⟡ My developer universe
 
