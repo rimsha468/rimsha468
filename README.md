@@ -1,23 +1,15 @@
-<table width="100%">
-  <tr>
-    <td align="center" bgcolor="#F8E8FA">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=E879B5&center=true&vCenter=true&width=550&lines=Hello+World!+%F0%9F%91%8B;I'm+Rimsha+Arif;Computer+Science+Graduate;Exploring+AI%2C+ML+%26+Cybersecurity;Let's+build+something+cool!" alt="Typing SVG" />
+</p>
 
-      <br>
-
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=E879B5&center=true&vCenter=true&width=550&lines=Hello+World!+%F0%9F%91%8B;I'm+Rimsha+Arif;Computer+Science+Graduate;Exploring+AI%2C+ML+%26+Cybersecurity;Let's+build+something+cool!" alt="Typing SVG" />
-
-      <p><i>Computer Science Graduate | Aspiring Software Engineer</i></p>
-
-      <img src="https://img.shields.io/badge/☕-Coffee%20Powered-D98BAA?style=plastic&labelColor=704C70" />
-      <img src="https://img.shields.io/badge/💻-Code%20%26%20Create-BB91C9?style=plastic&labelColor=684D82" />
-      <img src="https://img.shields.io/badge/🧠-Always%20Learning-91A9D5?style=plastic&labelColor=526B9B" />
-      <img src="https://img.shields.io/badge/✨-Dream%20Big-E7A5B5?style=plastic&labelColor=985D79" />
-
-      <br><br>
-
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <i>Computer Science Graduate | Aspiring Software Engineer</i>
+<p align="center">
+  <img src="https://img.shields.io/badge/☕-Coffee%20Powered-D98BAA?style=plastic&labelColor=704C70" />
+  <img src="https://img.shields.io/badge/💻-Code%20%26%20Create-BB91C9?style=plastic&labelColor=684D82" />
+  <img src="https://img.shields.io/badge/🧠-Always%20Learning-91A9D5?style=plastic&labelColor=526B9B" />
+  <img src="https://img.shields.io/badge/✨-Dream%20Big-E7A5B5?style=plastic&labelColor=985D79" />
+</p>
 
 ## ୨୧ A little about me
 
