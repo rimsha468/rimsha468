@@ -1,46 +1,24 @@
-# ✦ Hi, I'm Rimsha Arif
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:171326,50:6D477F,100:E879B5&text=Rimsha%20Arif&fontColor=FFFFFF&fontSize=52&fontAlignY=45&animation=fadeIn&stroke=E6B7D5&strokeWidth=1" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=E879B5&center=true&vCenter=true&width=550&lines=Hello+World!+%F0%9F%91%8B;I'm+Rimsha+Arif;Computer+Science+Graduate;Exploring+AI%2C+ML+%26+Cybersecurity;Let's+build+something+cool!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=E879B5&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate;Building+things+with+Python+%26+AI;Exploring+the+world+of+Cybersecurity;Curious+mind.+Creative+code.+Big+ideas." />
+  <i>Computer Science Graduate | Aspiring Software Engineer</i>
 </p>
 
-<p align="center">
-  <i>Computer Science Graduate · AI/ML Enthusiast · Curious Builder</i>
-</p>
+୨୧ A little about me
 
----
+<img align="right" width="145" src="https://github.com/rimsha468.png" />
 
-## ୨୧ A little about me
-
-<img align="right" width="155" src="https://github.com/rimsha468.png" />
-
-```yaml
 name: Rimsha Arif
 background: Computer Science
-personality: Curious + creative
-currently_exploring:
+interests:
   - Artificial Intelligence
   - Machine Learning
   - Cybersecurity
   - Computer Vision
-
-favorite_things:
-  - Turning ideas into projects
-  - Solving interesting problems
-  - Learning by experimenting
-
+currently: Learning & building
 motto: "Think it. Build it. Improve it."
-```
-
-I'm a Computer Science graduate who enjoys exploring how technology can solve real-world problems. I like working across different areas of software development, especially AI, machine learning, computer vision, and cybersecurity.
-
-I believe the best way to learn is to build, experiment, break things, and figure out how to make them better. ✨
-
----
 
 ## ⟡ My developer universe
 
