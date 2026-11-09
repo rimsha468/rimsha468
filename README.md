@@ -1,370 +1,210 @@
-<!--
-  RIMSHA ARIF | GITHUB PROFILE README
-  Theme: Pink Cyber / Lavender / Dark Tech
-  GitHub username: rimsha468
--->
+# ✦ Hi, I'm Rimsha Arif
 
-<!-- ═══════════════ HEADER ═══════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171326,35:38234D,70:914D83,100:E7A4CC&height=210&section=header&text=Rimsha%20Arif&fontSize=52&fontColor=FFE5F3&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%7C%20Cybersecurity&descAlignY=60&descSize=16" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=F48FCB&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%8C%B8;Welcome+to+my+little+corner+of+GitHub;Learning.+Building.+Experimenting.;Turning+curiosity+into+code+%E2%9C%A8" alt="Typing SVG"/>
-
-<h3>Computer Science Graduate | Aspiring Software Engineer</h3>
-
-<p>
-  <a href="https://github.com/rimsha468">
-    <img src="https://img.shields.io/badge/GitHub-rimsha468-F48FCB?style=flat-square&logo=github&logoColor=white&labelColor=21172E"/>
-  </a>
-  <a href="mailto:rimshaarif46821@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-C9A7F5?style=flat-square&logo=gmail&logoColor=white&labelColor=21172E"/>
-  </a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:171326,50:6D477F,100:E879B5&text=Rimsha%20Arif&fontColor=FFFFFF&fontSize=52&fontAlignY=45&animation=fadeIn&stroke=E6B7D5&strokeWidth=1" width="100%" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=rimsha468&label=PROFILE%20VISITORS&color=E879B5&style=flat-square" alt="Profile visitors"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=E879B5&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate;Building+things+with+Python+%26+AI;Exploring+the+world+of+Cybersecurity;Curious+mind.+Creative+code.+Big+ideas." />
+</p>
 
-</div>
+<p align="center">
+  <i>Computer Science Graduate · AI/ML Enthusiast · Curious Builder</i>
+</p>
 
 ---
 
-<!-- ═══════════════ ABOUT ME ═══════════════ -->
+## ୨୧ A little about me
 
-<h2 align="center">୨୧ A Little About Me</h2>
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="60%" valign="middle">
+<img align="right" width="155" src="https://github.com/rimsha468.png" />
 
 ```yaml
 name: Rimsha Arif
 background: Computer Science
-
-currently_learning:
+personality: Curious + creative
+currently_exploring:
   - Artificial Intelligence
   - Machine Learning
   - Cybersecurity
   - Computer Vision
 
-interests:
-  - Intelligent Systems
-  - Problem Solving
-  - Applied AI
-  - Software Development
+favorite_things:
+  - Turning ideas into projects
+  - Solving interesting problems
+  - Learning by experimenting
 
-philosophy: Learn by building ♡
+motto: "Think it. Build it. Improve it."
 ```
 
-</td>
-<td width="40%" align="center" valign="middle">
+I'm a Computer Science graduate who enjoys exploring how technology can solve real-world problems. I like working across different areas of software development, especially AI, machine learning, computer vision, and cybersecurity.
 
-<img src="https://github.com/rimsha468.png" width="150" style="border-radius:50%;" alt="Rimsha's GitHub avatar"/>
-
-<br/><br/>
-
-**A curious mind with a developer mindset.**
-
-🌸 Always learning
-
-💻 Always experimenting
-
-✨ Always building
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- ═══════════════ DEVELOPER STATUS ═══════════════ -->
-
-<h2 align="center">୨୧ Developer Status</h2>
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td align="center" width="33%">
-
-🌸
-
-<br/>
-
-**CURRENT MODE**
-
-Learning & Building
-
-</td>
-<td align="center" width="33%">
-
-🧠
-
-<br/>
-
-**BRAIN STATUS**
-
-Full of Ideas
-
-</td>
-<td align="center" width="33%">
-
-☕
-
-<br/>
-
-**ENERGY LEVEL**
-
-Coffee Powered
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-🔬
-
-<br/>
-
-**EXPLORING**
-
-AI & ML
-
-</td>
-<td align="center">
-
-🔐
-
-<br/>
-
-**INTERESTED IN**
-
-Cybersecurity
-
-</td>
-<td align="center">
-
-👁️
-
-<br/>
-
-**ALSO EXPLORING**
-
-Computer Vision
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- ═══════════════ TECH STACK ═══════════════ -->
-
-<h2 align="center">୨୧ Tools & Technologies</h2>
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,php,js&theme=dark" />
-
-<br/><br/>
-
-**AI / Machine Learning / Computer Vision**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" />
-
-<br/><br/>
-
-**Development & Data**
-
-<img src="https://skillicons.dev/icons?i=streamlit,fastapi,react,nodejs,mysql,mongodb&theme=dark" />
-
-<br/><br/>
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,bash,aws,vscode,android,arduino&theme=dark" />
-
-</div>
+I believe the best way to learn is to build, experiment, break things, and figure out how to make them better. ✨
 
 ---
 
-<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
-
-<h2 align="center">୨୧ Featured Projects</h2>
+## ⟡ My developer universe
 
 <p align="center">
-  <i>Some things I've built, explored, and experimented with.</i>
+  <img src="https://img.shields.io/badge/01%20%E2%80%94%20CURRENT%20MODE-BUILDING%20%26%20EXPLORING-241B35?style=for-the-badge&labelColor=171326&color=8D5A91" />
+  <img src="https://img.shields.io/badge/02%20%E2%80%94%20BRAIN%20STATUS-CURIOUS%20ALWAYS-241B35?style=for-the-badge&labelColor=171326&color=C879A9" />
 </p>
 
-<table width="100%">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+**୨୧ AI & MACHINE LEARNING**
+
+Learning how intelligent systems work, experimenting with models, and building practical AI applications.
+
+</td>
+<td width="50%" align="center">
+
+**୨୧ CYBERSECURITY**
+
+Exploring threat detection, phishing analysis, and ways to make digital systems safer.
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+**୨୧ COMPUTER VISION**
+
+Interested in image understanding, object detection, and technology that makes life more accessible.
+
+</td>
+<td width="50%" align="center">
+
+**୨୧ SOFTWARE DEVELOPMENT**
+
+Turning ideas into functional applications with Python and modern development tools.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ✧ Tech stack & tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,php,laravel,nodejs,git,github,linux,mysql,mongodb,aws,arduino,opencv,pytorch,tensorflow&perline=10&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-171326?style=flat-square&logo=streamlit&logoColor=E879B5" />
+  <img src="https://img.shields.io/badge/scikit--learn-171326?style=flat-square&logo=scikitlearn&logoColor=F0B36E" />
+  <img src="https://img.shields.io/badge/Pandas-171326?style=flat-square&logo=pandas&logoColor=E6B7D5" />
+  <img src="https://img.shields.io/badge/Ollama-171326?style=flat-square&logo=ollama&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Groq-171326?style=flat-square&logo=groq&logoColor=FFFFFF" />
+</p>
+
+---
+
+## ୨୧ Things I've been building
+
+<p align="center">
+  <i>A collection of experiments, ideas, and practical projects.</i>
+</p>
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🤖 LeadAtlas AI</h3>
+### ♡ LeadAtlas AI
+An AI-assisted lead intelligence and CRM dashboard using location-based business data.
 
-AI-powered lead intelligence platform for discovering, scoring, and managing business leads.
+**Stack:** Python · Streamlit · SQLite · OpenStreetMap
 
-**Stack:** Python · Streamlit · OSM · SQLite
-
-<a href="https://github.com/rimsha468/leadatlas-ai">View Project →</a>
+<a href="https://github.com/rimsha468/ai-lead-intelligence-platform">↗ Explore project</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>👁️ Be My Sight</h3>
+### ♡ Be My Sight
+A computer vision assistant designed to help visually impaired users understand their surroundings through object detection and voice feedback.
 
-Real-time object detection application designed to assist visually impaired users with voice feedback.
+**Stack:** Python · Computer Vision
 
-**Stack:** Computer Vision · Python · Android
-
-<a href="https://github.com/rimsha468/Be-My-Sight-Real-Time-Object-Detection-Assistant">View Project →</a>
+<a href="https://github.com/rimsha468/Be-My-Sight-Real-Time-Object-Detection-Assistant">↗ Explore project</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🛡️ ThreatLens</h3>
-
-Multi-modal phishing detection system exploring URL and email-based threat identification.
+### ♡ ThreatLens
+A phishing detection project exploring URL and email-based threat identification.
 
 **Stack:** Python · Machine Learning · NLP
 
-<a href="https://github.com/rimsha468/ThreatLens-multi-modal-phishing-detection">View Project →</a>
+<a href="https://github.com/rimsha468/ThreatLens-multi-modal-phishing-detection">↗ Explore project</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>📄 Real-World OCR</h3>
+### ♡ AI Interview Coach
+An interactive AI-powered interview practice application with role-based questions and answer feedback.
 
-Computer vision experiments for extracting text from real-world images using image preprocessing.
+**Stack:** Python · Streamlit · Groq
 
-**Stack:** Python · OpenCV · OCR
-
-<a href="https://github.com/rimsha468/real-world-ocr">View Project →</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🔐 SentinelFlow</h3>
-
-Network threat detection project exploring behavioural analysis and security intelligence.
-
-**Stack:** Python · Cybersecurity · ML
-
-<a href="https://github.com/rimsha468/sentinelflow-network-threat-detection">View Project →</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>📸 DocScan</h3>
-
-Document scanning and image correction using computer vision techniques.
-
-**Stack:** Python · OpenCV · Image Processing
-
-<a href="https://github.com/rimsha468/docscan">View Project →</a>
+<a href="https://github.com/rimsha468">↗ Find it on my GitHub</a>
 
 </td>
 </tr>
 </table>
 
+---
+
+## ⟡ My GitHub corner
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rimsha468&theme=tokyonight" width="100%" />
+</p>
+
 <p align="center">
   <a href="https://github.com/rimsha468?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-21172E?style=for-the-badge&logo=github&logoColor=F48FCB"/>
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-171326?style=for-the-badge&logo=github&logoColor=E879B5" />
   </a>
+  <a href="https://github.com/rimsha468">
+    <img src="https://img.shields.io/badge/VISIT%20MY%20PROFILE-171326?style=for-the-badge&logo=github&logoColor=E879B5" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Not chasing streaks — just collecting ideas, learning new things, and building at my own pace. ♡</i>
 </p>
 
 ---
 
-<!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
+## ୨୧ Beyond the code
 
-<h2 align="center">୨୧ GitHub Analytics</h2>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=rimsha468&show_icons=true&include_all_commits=true&hide_border=true&bg_color=171326&title_color=F48FCB&text_color=E6D9F5&icon_color=C9A7F5&border_radius=12" alt="GitHub statistics"/>
-
-<br/><br/>
-
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimsha468&layout=compact&langs_count=8&hide_border=true&bg_color=171326&title_color=F48FCB&text_color=E6D9F5&border_radius=12" alt="Top programming languages"/>
-
-</div>
+- 🌱 Currently learning: AI/ML, Cybersecurity, and Computer Vision.
+- 💬 Ask me about: Python, Machine Learning, Computer Vision, and Cybersecurity.
+- 📚 Always open to learning something new and collaborating on interesting ideas.
+- 🐛 Fun fact: I fix bugs I created while trying to fix other bugs. 😂
 
 ---
 
-<!-- ═══════════════ CONTRIBUTION STREAK ═══════════════ -->
+## ✦ Let's connect
 
-<h2 align="center">୨୧ Coding Consistency</h2>
+<p align="center">
+  <a href="mailto:rimshaarif46821@gmail.com">
+    <img src="https://img.shields.io/badge/Email-E879B5?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/rimsha-arif-514091365">
+    <img src="https://img.shields.io/badge/LinkedIn-8D6AA8?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/rimsha468">
+    <img src="https://img.shields.io/badge/GitHub-241B35?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<div align="center">
+<p align="center">
+  <i>Made with curiosity, coffee, and a little bit of pink. ♡</i>
+</p>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=rimsha468&theme=dark&hide_border=true&background=171326&ring=F48FCB&fire=FF8BCB&currStreakLabel=F48FCB&sideLabels=C9A7F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9B8AAA" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-<!-- ═══════════════ CONTRIBUTION GRAPH ═══════════════ -->
-
-<h2 align="center">୨୧ My Contribution Activity</h2>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rimsha468&bg_color=171326&color=E6D9F5&line=F48FCB&point=C9A7F5&area=true&hide_border=true&custom_title=Rimsha's%20Coding%20Activity" alt="Contribution graph"/>
-
-</div>
-
----
-
-<!-- ═══════════════ FUN CORNER ═══════════════ -->
-
-<h2 align="center">୨୧ The Fun Corner</h2>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1200&color=C9A7F5&center=true&vCenter=true&width=550&lines=99%25+curiosity%2C+1%25+knowing+what+I'm+doing.;Debugging+is+detective+work+with+extra+steps.;Coffee+%2B+Code+%3D+Happiness+%E2%98%95" alt="Fun developer quotes"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/BUGS-FEATURES%20IN%20DISGUISE-F48FCB?style=flat-square&labelColor=21172E"/>
-
-<br/><br/>
-
-**⚡ Fun fact:** I fix bugs I created while trying to fix other bugs. 😂
-
-</div>
-
----
-
-<!-- ═══════════════ CONNECT ═══════════════ -->
-
-<h2 align="center">୨୧ Let's Connect!</h2>
-
-<div align="center">
-
-<a href="https://linkedin.com/in/rimsha-arif-514091365">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-F48FCB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=21172E"/>
-</a>
-
-<a href="mailto:rimshaarif46821@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-C9A7F5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=21172E"/>
-</a>
-
-<a href="https://github.com/rimsha468">
-  <img src="https://img.shields.io/badge/GitHub-Follow-E8A4CF?style=for-the-badge&logo=github&logoColor=white&labelColor=21172E"/>
-</a>
-
-<br/><br/>
-
-<i>Thanks for stopping by! Keep learning, keep building, and stay curious. ♡</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171326,35:38234D,70:914D83,100:E7A4CC&height=130&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171326,50:6D477F,100:E879B5&height=100&section=footer" width="100%" />
+</p>
