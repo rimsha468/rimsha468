@@ -20,12 +20,30 @@
 
 ## 🌸 About Me
 
-- 🎓 Computer Science graduate with a passion for technology and innovation.
-- 🌱 Currently learning **AI/ML, Cybersecurity, and Computer Vision**.
-- 💬 Ask me about **Python, Machine Learning, Computer Vision, and Cybersecurity**.
-- 🔭 Interested in building intelligent systems and solving real-world problems.
-- 📫 Reach me at: **rimshaarif46821@gmail.com**
-- ⚡ Fun fact: 99% curiosity, 1% knowing what I'm doing. 😂
+
+<h2 align="center">🌷 A Little About Me</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Hello,%20World!-FFCBE2?style=for-the-badge&labelColor=FCEAF2&color=E8B4D0" />
+
+<br/><br/>
+
+💗 **Computer Science Graduate** with a curious mind and a love for building things.
+
+🌱 Currently exploring **AI/ML, Cybersecurity & Computer Vision**.
+
+💻 I enjoy experimenting with ideas, developing projects, and learning something new every day.
+
+🧠 Always curious about how technology works and how it can solve real-world problems.
+
+💌 **Let's connect:** [Email me](mailto:rimshaarif46821@gmail.com) · [LinkedIn](https://linkedin.com/in/rimsha-arif-514091365)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=17&duration=3000&pause=1000&color=C27BA0&center=true&vCenter=true&width=435&lines=Dreaming+in+code+%E2%9C%A8;Learning+something+new+every+day+%F0%9F%8C%B7;Building+ideas+into+reality+%F0%9F%92%BB" />
+
+</div>
 
 ---
 
