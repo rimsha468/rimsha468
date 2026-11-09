@@ -6,7 +6,7 @@
   <i>Computer Science Graduate | Aspiring Software Engineer</i>
 </p>
 
-୨୧ A little about me
+## ୨୧ A little about me
 
 <img align="right" width="145" src="https://github.com/rimsha468.png" />
 
