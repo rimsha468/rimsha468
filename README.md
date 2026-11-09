@@ -11,15 +11,16 @@
 <img align="right" width="145" src="https://github.com/rimsha468.png" />
 
 name: Rimsha Arif
-<br/>
 background: Computer Science
-<br/>
-interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Cybersecurity
-  - Computer Vision
-currently: Learning & building
+personality: Curious + creative
+currently_exploring:
+  - Artificial Intelligence | Machine Learning | Cybersecurity | Computer Vision
+
+favorite_things:
+  - Turning ideas into projects
+  - Solving interesting problems
+  - Learning by experimenting
+
 motto: "Think it. Build it. Improve it."
 
 ## ⟡ My developer universe
