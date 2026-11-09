@@ -11,7 +11,9 @@
 <img align="right" width="145" src="https://github.com/rimsha468.png" />
 
 name: Rimsha Arif
+<br/>
 background: Computer Science
+<br/>
 interests:
   - Artificial Intelligence
   - Machine Learning
