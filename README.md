@@ -1,23 +1,3 @@
-<!-- 🌷 PROFILE HEADER -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,50:EADCF8,100:DCEBFA&height=200&section=header&text=Rimsha%20Arif&fontSize=48&fontColor=795C75&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%7C%20Building%20and%20Learning&descAlignY=58&descSize=15" width="100%" />
-
-<h2><img src="https://img.shields.io/badge/Hello,%20World!-FFCBE2?style=for-the-badge&labelColor=FCEAF2&color=E8B4D0" />
- 👋 I'm Rimsha</h2>
-
-<p>
-  <b>Computer Science Graduate | Aspiring Software Engineer</b>
-</p>
-
-<p>
-  <i>Curious mind, creative problem solver, and a developer who loves turning ideas into reality.</i>
-</p>
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════ -->
 <!--              RIMSHA'S CYBER SPACE              -->
