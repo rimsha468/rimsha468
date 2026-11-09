@@ -16,11 +16,6 @@ personality: Curious + creative<br/>
 currently_exploring:
   - Artificial Intelligence | Machine Learning | Cybersecurity | Computer Vision
 
-favorite_things:
-  - Turning ideas into projects
-  - Solving interesting problems
-  - Learning by experimenting
-
 motto: "Think it. Build it. Improve it."
 
 ## ⟡ My developer universe
