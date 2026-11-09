@@ -10,8 +10,8 @@
 
 <img align="right" width="155" src="https://github.com/rimsha468.png" />
 
-**Rimsha Arif**  
-<sub>COMPUTER SCIENCE GRADUATE · ASPIRING SOFTWARE ENGINEER</sub>
+**🌸Rimsha Arif**  
+<sub>COMPUTER SCIENCE GRADUATE | ASPIRING SOFTWARE ENGINEER</sub>
 
 ♡ Curious mind. Creative soul. Always experimenting.
 
@@ -19,7 +19,7 @@
 
 `AI & ML`　 `Cybersecurity`　 `Computer Vision`
 
-**My philosophy**
+**💗 MY DEVELOPER MOTTO**
 
 *“If it works, don't touch it!!!”* ♡
 
