@@ -16,7 +16,7 @@ personality: Curious + creative<br/>
 currently_exploring:
   - Artificial Intelligence | Machine Learning | Cybersecurity | Computer Vision
 
-motto: "Think it. Build it. Improve it."
+motto: "If it works, don't touch it!!!"
 
 ## ⟡ My developer universe
 
