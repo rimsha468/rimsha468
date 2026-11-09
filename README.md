@@ -11,9 +11,7 @@
   <img src="https://img.shields.io/badge/✨-Dream%20Big-E7A5B5?style=plastic&labelColor=985D79" />
 </p>
 
-<h2>
-  <img src="https://img.shields.io/badge/୨୧%20A%20little%20about%20me-C879A9?style=flat-square&labelColor=241B35" />
-</h2>
+## ୨୧ A little about me
 
 <img align="right" width="155" src="https://github.com/rimsha468.png" />
 
