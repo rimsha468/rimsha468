@@ -14,12 +14,6 @@
   <i>Curious mind, creative problem solver, and a developer who loves turning ideas into reality.</i>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=rimsha468&label=Profile%20Views&color=E8A8C8&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/rimsha468?label=Followers&style=flat-square&color=DCC6F2" />
-  <img src="https://img.shields.io/github/repo-count/rimsha468?label=Public%20Repos&style=flat-square&color=F2B8D0" />
-</p>
-
 </div>
 
 ---
@@ -131,8 +125,6 @@ A computer vision tool that detects documents, corrects perspective, and removes
 ## 📊 GitHub Analytics
 
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
 <div align="center">
 
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=rimsha468&show_icons=true&include_all_commits=true&hide_border=true&bg_color=FFF7FB&title_color=C27BA0&text_color=806B80&icon_color=D98BB5" />
@@ -148,19 +140,6 @@ A computer vision tool that detects documents, corrects perspective, and removes
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=rimsha468&theme=default&hide_border=true&background=FFF7FB&ring=D98BB5&fire=E8A8C8&currStreakLabel=C27BA0&sideLabels=9B7A98&currStreakNum=806B80&sideNums=806B80&dates=B49BB2" width="75%" />
-
-</div>
-
----
-
-## 🌷 Contribution Activity
-
-
-<h2 align="center">🌷 Contribution Activity</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rimsha468&bg_color=fff7fb&color=806b80&line=d98bb5&point=b78bd2&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%" />
 
 </div>
 
