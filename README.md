@@ -15,9 +15,6 @@
 
 <img align="right" width="155" src="https://github.com/rimsha468.png" />
 
-**🌸Rimsha Arif**  
-<sub>COMPUTER SCIENCE GRADUATE | ASPIRING SOFTWARE ENGINEER</sub>
-
  `♡ Curious Mind`　 `♡ Creative Soul`　 `♡ Always Experimenting`
 
 ✨ **CURRENTLY EXPLORING**
