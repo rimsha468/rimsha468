@@ -13,7 +13,7 @@
 
 ## ୨୧ A little about me
 
-<img align="right" width="220" src="[assets/rimsha-github-workspace.gif](https://github.com/rimsha468/rimsha468/blob/main/assets/Pastel%20Workspace%20Cat%20Animation.gif)" />
+<img align="right" width="220" src="https://raw.githubusercontent.com/rimsha468/rimsha468/main/assets/Pastel%20Workspace%20Cat%20Animation.gif" />
 
  `♡ Curious Mind`　 `♡ Creative Soul`　 `♡ Always Experimenting`
 
