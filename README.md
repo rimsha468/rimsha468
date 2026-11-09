@@ -47,24 +47,24 @@
 <tr>
 <td width="50%">
 
-🤖 LeadAtlas AI
+### 🤖 LeadAtlas AI
 
 AI-powered lead intelligence platform for discovering, scoring, and managing business leads using OpenStreetMap data.
 
-Tech: Python, Streamlit, Data Processing
+**Tech:** Python, Streamlit, Data Processing
 
-View Repository →
+[View Repository →](https://github.com/rimsha468/leadatlas-ai)
 
 </td>
 <td width="50%">
 
-👁️ Be My Sight
+### 👁️ Be My Sight
 
 Real-time object detection Android application with voice feedback to assist visually impaired users.
 
-Tech: Computer Vision, TensorFlow Lite, Android
+**Tech:** Computer Vision, TensorFlow Lite, Android
 
-View Repository →
+[View Repository →](https://github.com/rimsha468/Be-My-Sight-Real-Time-Object-Detection-Assistant)
 
 </td>
 </tr>
@@ -72,24 +72,24 @@ View Repository →
 <tr>
 <td width="50%">
 
-🛡️ ThreatLens
+### 🛡️ ThreatLens
 
 Multi-modal phishing detection system analyzing URLs and emails using machine learning.
 
-Tech: Python, Machine Learning, FastAPI
+**Tech:** Python, Machine Learning, FastAPI
 
-View Repository →
+[View Repository →](https://github.com/rimsha468/ThreatLens-multi-modal-phishing-detection)
 
 </td>
 <td width="50%">
 
-📄 Real-World OCR
+### 📄 Real-World OCR
 
 An OCR pipeline comparing image preprocessing techniques to improve text extraction from real-world images.
 
-Tech: Python, OpenCV, Tesseract
+**Tech:** Python, OpenCV, Tesseract
 
-View Repository →
+[View Repository →](https://github.com/rimsha468/real-world-ocr)
 
 </td>
 </tr>
@@ -97,24 +97,24 @@ View Repository →
 <tr>
 <td width="50%">
 
-🔐 SentinelFlow
+### 🔐 SentinelFlow
 
 Network threat detection using behavioural rules, unsupervised machine learning, and MITRE ATT&CK mapping.
 
-Tech: Python, Cybersecurity, Machine Learning
+**Tech:** Python, Cybersecurity, Machine Learning
 
-View Repository →
+[View Repository →](https://github.com/rimsha468/sentinelflow-network-threat-detection)
 
 </td>
 <td width="50%">
 
-📸 DocScan
+### 📸 DocScan
 
 A computer vision tool that detects documents, corrects perspective, and removes shadows to create clean scans.
 
-Tech: Python, OpenCV, Computer Vision
+**Tech:** Python, OpenCV, Computer Vision
 
-View Repository →
+[View Repository →](https://github.com/rimsha468/docscan)
 
 </td>
 </tr>
@@ -124,7 +124,6 @@ View Repository →
 
 ## 📊 GitHub Analytics
 
-
 <div align="center">
 
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=rimsha468&show_icons=true&include_all_commits=true&hide_border=true&bg_color=FFF7FB&title_color=C27BA0&text_color=806B80&icon_color=D98BB5" />
@@ -132,6 +131,7 @@ View Repository →
 <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rimsha468&layout=compact&hide_border=true&bg_color=FFF7FB&title_color=C27BA0&text_color=806B80" />
 
 </div>
+
 
 ---
 
