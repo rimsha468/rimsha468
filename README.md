@@ -5,13 +5,15 @@
 <p align="center">
   <i>Computer Science Graduate | Aspiring Software Engineer</i>
 <p align="center">
-  <img src="https://img.shields.io/badge/☕-Coffee%20Powered-FCE4EC?style=plastic&labelColor=F8BBD0" />
-  <img src="https://img.shields.io/badge/💻-Code%20%26%20Create-EDE7F6?style=plastic&labelColor=D1C4E9" />
-  <img src="https://img.shields.io/badge/🧠-Always%20Learning-E3F2FD?style=plastic&labelColor=BBDEFB" />
-  <img src="https://img.shields.io/badge/✨-Dream%20Big-FFF3E0?style=plastic&labelColor=FFE0B2" />
+  <img src="https://img.shields.io/badge/☕-Coffee%20Powered-D98BAA?style=plastic&labelColor=704C70" />
+  <img src="https://img.shields.io/badge/💻-Code%20%26%20Create-BB91C9?style=plastic&labelColor=684D82" />
+  <img src="https://img.shields.io/badge/🧠-Always%20Learning-91A9D5?style=plastic&labelColor=526B9B" />
+  <img src="https://img.shields.io/badge/✨-Dream%20Big-E7A5B5?style=plastic&labelColor=985D79" />
 </p>
 
-## ୨୧ A little about me
+<h2>
+  <img src="https://img.shields.io/badge/୨୧%20A%20little%20about%20me-C879A9?style=flat-square&labelColor=241B35" />
+</h2>
 
 <img align="right" width="155" src="https://github.com/rimsha468.png" />
 
