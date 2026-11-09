@@ -13,7 +13,7 @@
 **🌸Rimsha Arif**  
 <sub>COMPUTER SCIENCE GRADUATE | ASPIRING SOFTWARE ENGINEER</sub>
 
-♡ `Curious Mind`　 ♡`Creative Soul`　 ♡`Always Experimenting`
+ `♡Curious Mind`　 `♡Creative Soul`　 `♡Always Experimenting`
 
 ✨ **CURRENTLY EXPLORING**
 
