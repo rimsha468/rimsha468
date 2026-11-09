@@ -47,14 +47,24 @@
 <tr>
 <td width="50%">
 
+🤖 LeadAtlas AI
 
-### 👁️ Be My Sight
+AI-powered lead intelligence platform for discovering, scoring, and managing business leads using OpenStreetMap data.
+
+Tech: Python, Streamlit, Data Processing
+
+View Repository →
+
+</td>
+<td width="50%">
+
+👁️ Be My Sight
 
 Real-time object detection Android application with voice feedback to assist visually impaired users.
 
-**Tech:** Computer Vision, TensorFlow Lite, Android
+Tech: Computer Vision, TensorFlow Lite, Android
 
-[View Repository →](https://github.com/rimsha468/Be-My-Sight-Real-Time-Object-Detection-Assistant)
+View Repository →
 
 </td>
 </tr>
@@ -62,35 +72,49 @@ Real-time object detection Android application with voice feedback to assist vis
 <tr>
 <td width="50%">
 
-### 🛡️ ThreatLens
+🛡️ ThreatLens
 
 Multi-modal phishing detection system analyzing URLs and emails using machine learning.
 
-**Tech:** Python, Machine Learning, FastAPI
+Tech: Python, Machine Learning, FastAPI
 
-[View Repository →](https://github.com/rimsha468/ThreatLens-multi-modal-phishing-detection)
+View Repository →
 
 </td>
 <td width="50%">
 
-### 🔐 SentinelFlow
+📄 Real-World OCR
+
+An OCR pipeline comparing image preprocessing techniques to improve text extraction from real-world images.
+
+Tech: Python, OpenCV, Tesseract
+
+View Repository →
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+🔐 SentinelFlow
 
 Network threat detection using behavioural rules, unsupervised machine learning, and MITRE ATT&CK mapping.
 
-**Tech:** Python, Cybersecurity, Machine Learning
+Tech: Python, Cybersecurity, Machine Learning
 
-[View Repository →](https://github.com/rimsha468/sentinelflow-network-threat-detection)
+View Repository →
 
 </td>
 <td width="50%">
 
-### 📸 DocScan
+📸 DocScan
 
 A computer vision tool that detects documents, corrects perspective, and removes shadows to create clean scans.
 
-**Tech:** Python, OpenCV, Computer Vision
+Tech: Python, OpenCV, Computer Vision
 
-[View Repository →](https://github.com/rimsha468/docscan)
+View Repository →
 
 </td>
 </tr>
