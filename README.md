@@ -13,7 +13,7 @@
 
 ## ୨୧ A little about me
 
-<img align="right" width="155" src="https://github.com/rimsha468.png" />
+<img align="right" width="220" src="assets/rimsha-github-workspace.gif" />
 
  `♡ Curious Mind`　 `♡ Creative Soul`　 `♡ Always Experimenting`
 
