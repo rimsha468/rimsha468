@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/🧠-Always%20Learning-E3F2FD?style=plastic&labelColor=BBDEFB" />
   <img src="https://img.shields.io/badge/✨-Dream%20Big-FFF3E0?style=plastic&labelColor=FFE0B2" />
 </p>
+
 ## ୨୧ A little about me
 
 <img align="right" width="155" src="https://github.com/rimsha468.png" />
