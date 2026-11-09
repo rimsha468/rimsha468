@@ -10,9 +10,9 @@
 
 <img align="right" width="145" src="https://github.com/rimsha468.png" />
 
-name: Rimsha Arif
-background: Computer Science
-personality: Curious + creative
+name: Rimsha Arif<br/>
+background: Computer Science<br/>
+personality: Curious + creative<br/>
 currently_exploring:
   - Artificial Intelligence | Machine Learning | Cybersecurity | Computer Vision
 
