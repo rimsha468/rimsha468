@@ -130,11 +130,14 @@ A computer vision tool that detects documents, corrects perspective, and removes
 
 ## 📊 GitHub Analytics
 
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rimsha468&show_icons=true&include_all_commits=true&hide_border=true&bg_color=FFF7FB&title_color=C27BA0&text_color=806B80&icon_color=D98BB5&border_radius=15" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=rimsha468&show_icons=true&include_all_commits=true&hide_border=true&bg_color=FFF7FB&title_color=C27BA0&text_color=806B80&icon_color=D98BB5" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimsha468&layout=compact&langs_count=8&hide_border=true&bg_color=FFF7FB&title_color=C27BA0&text_color=806B80&border_radius=15" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rimsha468&layout=compact&hide_border=true&bg_color=FFF7FB&title_color=C27BA0&text_color=806B80" />
 
 </div>
 
@@ -151,6 +154,9 @@ A computer vision tool that detects documents, corrects perspective, and removes
 ---
 
 ## 🌷 Contribution Activity
+
+
+<h2 align="center">🌷 Contribution Activity</h2>
 
 <div align="center">
 
